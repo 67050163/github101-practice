@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ทิตยา แต้มสาระ | Team 06 | PM | กำลังทำ | - |
+| ทิตยา แต้มสาระ | Team 06 | PM | กำลังทำ | https://github.com/67050163/github101-practice/blob/main/docs/evidence/67050163-thitaya.md |
 
 ---
 
